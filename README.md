@@ -70,4 +70,22 @@ To create, open and run your application, you will use Node Package Execute (`np
 3. Press <kbd>a</kbd> to open an emulator and the application.
 4. To edit the app, you do not need to stop the Expo development server. However, if you must stop the server, press <kbd>Ctrl</kbd> + <kbd>c</kbd> in the terminal.
 
+TODO:
+
+```sh
+# Pre-checks
+npm install -g eas-cli
+npx expo-doctor@latest
+npx expo install --fix
+npx expo start -c
+npx expo prebuild --clean
+npx expo run:android
+# Build project
+eas login
+eas build:configure
+# Would you like to automatically create an EAS project for testmate2: Yes
+# Which platforms would you like to configure for EAS Build?: All
+eas build -p android --profile development
+```
+
 ***To be continued...***

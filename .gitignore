@@ -1,6 +1,7 @@
 .expo
 .old
 .vscode
+android
 app-example
 assets
 node_modules
