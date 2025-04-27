@@ -1,0 +1,50 @@
+{
+    "title": "Planets!",
+    "author": "Rob Garcia",
+    "preserveQuestionOrder": false,
+    "questions": [
+        {
+            "questionText": "What is the largest planet in our solar system?",
+            "choices": [
+                "Earth",
+                "Jupiter",
+                "Mercury",
+                "Neptune"
+            ],
+            "correctAnswer": "Jupiter",
+            "explanation": "Jupiter is the largest planet in our solar system."
+        },
+        {
+            "questionText": "What is the smallest planet in our solar system?",
+            "choices": [
+                "Earth",
+                "Jupiter",
+                "Mercury",
+                "Neptune"
+            ],
+            "correctAnswer": "Mercury",
+            "explanation": "Mercury is the smallest planet in our solar system."
+        },
+        {
+            "questionText": "What is the furthest planet from the Sun in our solar system?",
+            "choices": [
+                "Earth",
+                "Jupiter",
+                "Mercury",
+                "Neptune"
+            ],
+            "correctAnswer": "Neptune",
+            "explanation": "Neptune is the furthest planet from the Sun in our solar system."
+        },
+        {
+            "questionText": "True or False: Mars is known as the 'Red Planet'.",
+            "preserveChoiceOrder": true,
+            "choices": [
+                "True",
+                "False"
+            ],
+            "correctAnswer": "True",
+            "explanation": "Mars is known as the 'Red Planet'."
+        }
+    ]
+}

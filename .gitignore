@@ -1,0 +1,10 @@
+.expo
+.old
+.vscode
+app-example
+assets
+node_modules
+expo-env.d.ts
+package-lock.json
+package.json
+tsconfig.json
