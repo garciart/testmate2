@@ -4,6 +4,8 @@
 app-example
 assets
 node_modules
+app.json
+eas.json
 expo-env.d.ts
 package-lock.json
 package.json
